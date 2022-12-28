@@ -105,16 +105,19 @@ h1,
 .h1 {
   font-size: 4em;
   line-height: 1.015625em;
+  letter-spacing: -0.02165em;
 }
 h2,
 .h2 {
   font-size: 2.8125em;
   line-height: 1.15555556em;
+  letter-spacing: -0.02165em;
 }
 h3,
 .h3 {
   font-size: 2em;
   line-height: 1.421875em;
+  letter-spacing: -0.01165em;
 }
 h4,
 .h4 {

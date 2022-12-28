@@ -55,6 +55,14 @@ strong, .strong {
 	font-weight: 700 !important;
 }
 
+/**! Color Effects **/
+.color--transparent {
+	color: transparent;
+}
+.border--transparent {
+	border-color: transparent;
+}
+
 /**! Position **/
 
 @media all and (max-width: 767px) {

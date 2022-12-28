@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256.1504" height="256.1501" viewBox="0 0 256.1504 256.1501">
+  <defs>
+    <linearGradient id="Gradiente_sem_nome_64" data-name="Gradiente sem nome 64" x1="7.3734" y1="282.599" x2="188.2873" y2="-30.753" gradientUnits="userSpaceOnUse">
+      <stop offset="0.036" stop-color="#3843ba"/>
+      <stop offset="0.1835" stop-color="#783eba"/>
+      <stop offset="0.3266" stop-color="#ba38ba"/>
+      <stop offset="0.424" stop-color="#c5488e"/>
+      <stop offset="0.5742" stop-color="#d45e4e"/>
+      <stop offset="0.6453" stop-color="#da6735"/>
+      <stop offset="0.9565" stop-color="#f7a938"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_2" data-name="Camada 2">
+    <g id="Camada_7" data-name="Camada 7">
+      <g>
+        <path d="M128.0752,54.5752a73.5,73.5,0,1,0,73.5,73.5A73.5,73.5,0,0,0,128.0752,54.5752Zm0,110.625a37.125,37.125,0,1,1,37.125-37.125A37.125,37.125,0,0,1,128.0752,165.2ZM18.2,146.2754a18.2,18.2,0,0,1-18.2-18.2A128.22,128.22,0,0,1,128.0752,0a18.2,18.2,0,0,1,0,36.4A91.7784,91.7784,0,0,0,36.4,128.0752,18.2,18.2,0,0,1,18.2,146.2754Z" style="fill-rule: evenodd;fill: url(#Gradiente_sem_nome_64)"/>
+        <rect x="0.0003" width="256.1501" height="256.1501" rx="128.0749" style="fill: none"/>
+      </g>
+    </g>
+  </g>
+</svg>
