@@ -235,7 +235,7 @@ $(document).ready(function(){
   /*----------
     CADASTRO-ESTABELECIMENTO
   ----------*/
-  if($('form#cadastro-delivery').length) {
+  if($('form#cadastro-estabelecimento').length) {
     function categoria() {
       var cat = $('#i_Categoria-Tipo').val();
 

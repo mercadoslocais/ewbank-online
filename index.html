@@ -16,7 +16,6 @@
 
     <div id="cadastro-estabelecimento" class="main-container">
 
-      <form class="form-email" data-form="estabelecimento" data-style="typeform">
         <section id="sectionTop" class="height-100 imagebg image--light cover cover-8 cover-full" data-overlay="5">
           <div class="background-image-holder">
             <img src="img/banners/banner-form_960x960.02.jpg" alt="">
@@ -747,7 +746,6 @@
             </div><!--end of row-->
           </div><!--end of container-->
         </section>
-      </form>
 
       <section id="section10" class="height-100 cover cover-8 cover-full" style="">
         <div class="container pos-vertical-center-ever">
@@ -765,7 +763,7 @@
                 <div class="row">
                   <div class="col-sm-6 col-sm-offset-3">
                     <span id="nextpage" style="display: none">/ewbank-online/cadastro-success.html</span>
-                    <form action="https://formsubmit.co/bd9867ea04579f11d4778701553dbbbe" method="POST">
+                    <form id="cadastro-estabelecimento" data-form="estabelecimento" data-style="typeform" action="https://formsubmit.co/bd9867ea04579f11d4778701553dbbbe" method="POST">
                       <!-- Form Submit Honeypot -->
                       <input type="text" name="_honey" style="display: none">
                       <!-- Form Submit Captcha -->
@@ -773,7 +771,6 @@
                       <!-- Form Submit Redirect (Next) -->
                       <input type="hidden" name="_next" value="">
 
-                      <input id="nameform" type="hidden" name="name">
                       <input id="emailform" type="hidden" name="email">
                       <div class="form-group submit">
                         <button id='' type="submit" class="btn btn-block" data-wow-delay="0.2s">Enviar Cadastro</button>
